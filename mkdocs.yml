@@ -1,0 +1,12 @@
+site_name: campaign-test
+site_description: This is a test assignment
+repo_url: https://github.com/nikkomidoy/campaign-test-rest
+site_dir: site
+copyright: Copyright &copy; 2019, <a href="https://github.com/nikkomidoy">nikkomidoy</a>.
+dev_addr: 0.0.0.0:8001
+
+nav:
+  - Home: 'index.md'
+  - API:
+    - Authentication: 'api/authentication.md'
+    - Users: 'api/users.md'
